@@ -1,1 +1,1 @@
-'# Tab Tips for Chrome'
+# Tab Tips for Chrome
