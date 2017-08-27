@@ -23,6 +23,7 @@ var tipsList = [
 	"Arrays hold lists of data. You can access any of the list items by using bracket notation, like this: <br> <span class='code-block'>var myArray = ['pears', 'asparagus', 'bananas'];<br>myArray[1]; // asparagus</span>"
 ];
 
+// https://medium.com/@codecademy/javascript-tips-tab-4e9081b4132
 // Tip Limit counter
 
 
